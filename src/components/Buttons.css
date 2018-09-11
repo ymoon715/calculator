@@ -1,0 +1,33 @@
+button {
+    height: 65px;
+    width: 80px;
+    position: relative;
+    border: 2px solid #071212;
+    font-size: 20px;
+    
+    background-color: #143934;
+    color: white;
+    border-radius: 25px;
+}
+
+.ACButton {
+    background-color: #DF4510;
+    width: 160px;
+}
+
+.Equal {
+    position: absolute;
+    height: 130px;
+    bottom: 1px;
+    background-color: #d1ae15;
+}
+
+.Zero {
+    
+    width: 160px;
+    
+}
+
+.DM {
+    background-color: #277268;
+}

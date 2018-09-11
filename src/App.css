@@ -1,0 +1,11 @@
+.App {
+  border: 2px solid #071212;
+  width: 320px;
+  height: auto;
+  color: white;
+  background-color: #071212;
+  position: relative;
+  border-radius: 25px;
+}
+
+
